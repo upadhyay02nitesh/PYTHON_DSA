@@ -1,4 +1,5 @@
-for i in l2:
-#     if i not in l1:
-#         l1.append(i)
-# print("Union ->",l1)
+def rev(l):
+    
+    
+# l=[5,7,4,3,20,89]
+# print(rev(l))
